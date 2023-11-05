@@ -1,0 +1,15 @@
+mkdir Vrubel
+cd Vrubel
+mkdir Vrubel Dmytro
+mkdir KI405
+mkdir VARJ 
+cd Vrubel Dmytro
+touch email.txt
+cd ..
+cd KI405 
+touch data.txt
+echo "05.11.23 KI-405" >> data.txt
+cd .. 
+cd Vrubel Dmytro
+echo "051raokeszaek051@gmail.com" >> email.txt
+
